@@ -1,7 +1,7 @@
 name: podcast-transcripts
 on:
   schedule:
-    - cron: "17 */3 * * *"
+    - cron: "0 4 * * *"
   workflow_dispatch:
 permissions:
   contents: write
