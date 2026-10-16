@@ -1,0 +1,32 @@
+{
+ "last_run": "2026-10-16 16:47 HKT",
+ "shows": [
+  {
+   "show": "All-In",
+   "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary",
+   "date": "2026-10-15 09:54 HKT",
+   "link": "https://allinchamathjason.libsyn.com/elizabeth-holmes-husband-billy-evans-the-trial-prison-nathan-fielders-documentary",
+   "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
+   "status": "NEW",
+   "transcript": "Saved: transcripts/2026-10-15_All-In_Elizabeth-Holmes-Husband-Billy-Evans-The-Trial-Prison-Nathan-Fielder-s-Documenta.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)"
+  },
+  {
+   "show": "Forward Guidance (Blockworks)",
+   "title": "Robinhood & Lighter: Why Wall Street Is Moving Onchain",
+   "date": "2026-10-13 18:00 HKT",
+   "link": "",
+   "feed": "https://feeds.megaphone.fm/forwardguidance",
+   "status": "No new episode",
+   "transcript": "Saved: transcripts/2026-10-13_Forward-Guidance_Robinhood-Lighter-Why-Wall-Street-Is-Moving-Onchain.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)"
+  },
+  {
+   "show": "Systematic Investor (Top Traders Unplugged)",
+   "title": "SI421: Taking CTAs Mainstream ft. Andrew Beer",
+   "date": "2026-10-10 12:00 HKT",
+   "link": "http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si421-what-if-the-market-is-more-fragile-than-it-looks-ft-andrew-beer",
+   "feed": "https://feeds.captivate.fm/top-traders-unplugged/",
+   "status": "No new episode",
+   "transcript": "n/a"
+  }
+ ]
+}
