@@ -1,20 +1,20 @@
 # Podcast status
-Last run: 2026-10-16 16:47 HKT
+Last run: 2026-10-17 16:18 HKT
 
 ## All-In
 - Status: NEW
-- Title: Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary (2026-10-15 09:54 HKT)
-- Link: https://allinchamathjason.libsyn.com/elizabeth-holmes-husband-billy-evans-the-trial-prison-nathan-fielders-documentary
-- Transcript: Saved: transcripts/2026-10-15_All-In_Elizabeth-Holmes-Husband-Billy-Evans-The-Trial-Prison-Nathan-Fielder-s-Documenta.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
+- Title: CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer (2026-10-17 09:51 HKT)
+- Link: https://allinchamathjason.libsyn.com/coreweave-crash-ai-trade-cracks-anthropic-ipo-red-flags-bill-gates-doomer
+- Transcript: PENDING: waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed
 
 ## Forward Guidance (Blockworks)
-- Status: No new episode
-- Title: Robinhood & Lighter: Why Wall Street Is Moving Onchain (2026-10-13 18:00 HKT)
+- Status: NEW
+- Title: The Bond Market Is Pricing In Something Worse Than Inflation | Weekly Roundup (2026-10-16 18:00 HKT)
 - Link: 
-- Transcript: Saved: transcripts/2026-10-13_Forward-Guidance_Robinhood-Lighter-Why-Wall-Street-Is-Moving-Onchain.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
+- Transcript: Saved: transcripts/2026-10-16_Forward-Guidance_The-Bond-Market-Is-Pricing-In-Something-Worse-Than-Inflation-Weekly-Roundup.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Systematic Investor (Top Traders Unplugged)
-- Status: No new episode
-- Title: SI421: Taking CTAs Mainstream ft. Andrew Beer (2026-10-10 12:00 HKT)
-- Link: http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si421-what-if-the-market-is-more-fragile-than-it-looks-ft-andrew-beer
-- Transcript: n/a
+- Status: NEW
+- Title: SI422: Why Trend Following Rewards Patience ft. Katy Kaminski (2026-10-17 12:00 HKT)
+- Link: http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si422-why-trend-following-rewards-patience-ft-katy-kaminski
+- Transcript: Saved: transcripts/2026-10-17_Systematic-Investor_SI422-Why-Trend-Following-Rewards-Patience-ft-Katy-Kaminski.md (RSS transcript tag (application/json))

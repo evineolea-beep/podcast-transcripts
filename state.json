@@ -1,5 +1,16 @@
 {
  "episodes": {
+  "4deb3398-c8e9-11f1-a693-0bd61fa2ddce": {
+   "attempts": 1,
+   "date": "2026-10-16T10:00:00+00:00",
+   "file": "transcripts/2026-10-16_Forward-Guidance_The-Bond-Market-Is-Pricing-In-Something-Worse-Than-Inflation-Weekly-Roundup.md",
+   "link": "",
+   "reason": "",
+   "show": "Forward-Guidance",
+   "source": "Machine transcription of official audio (faster-whisper small.en); no speaker names",
+   "status": "saved",
+   "title": "The Bond Market Is Pricing In Something Worse Than Inflation | Weekly Roundup"
+  },
   "878c6810-c65a-11f1-a1d2-f34a21d3c508": {
    "attempts": 1,
    "date": "2026-10-13T10:00:00+00:00",
@@ -22,6 +33,17 @@
    "status": "saved",
    "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary"
   },
+  "9810e584-cb1b-4840-9d9a-c0b97e86c6f0": {
+   "attempts": 1,
+   "date": "2026-10-17T04:00:00+00:00",
+   "file": "transcripts/2026-10-17_Systematic-Investor_SI422-Why-Trend-Following-Rewards-Patience-ft-Katy-Kaminski.md",
+   "link": "http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si422-why-trend-following-rewards-patience-ft-katy-kaminski",
+   "reason": "",
+   "show": "Systematic-Investor",
+   "source": "RSS transcript tag (application/json)",
+   "status": "saved",
+   "title": "SI422: Why Trend Following Rewards Patience ft. Katy Kaminski"
+  },
   "df9fe70c-a787-4f9f-b869-ab6bd6758a7b": {
    "attempts": 1,
    "date": "2026-10-12T15:49:00+00:00",
@@ -32,6 +54,14 @@
    "source": "Machine transcription of official audio (faster-whisper small.en); no speaker names",
    "status": "saved",
    "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him"
+  },
+  "f5b1cd7e-b9a3-4c1d-9159-375cab50f6a8": {
+   "date": "2026-10-17T01:51:00+00:00",
+   "link": "https://allinchamathjason.libsyn.com/coreweave-crash-ai-trade-cracks-anthropic-ipo-red-flags-bill-gates-doomer",
+   "reason": "waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed",
+   "show": "All-In",
+   "status": "pending",
+   "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer"
   }
  },
  "feeds": {
