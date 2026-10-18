@@ -1,11 +1,11 @@
 # Podcast status
-Last run: 2026-10-17 16:18 HKT
+Last run: 2026-10-18 16:36 HKT
 
 ## All-In
 - Status: NEW
 - Title: CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer (2026-10-17 09:51 HKT)
 - Link: https://allinchamathjason.libsyn.com/coreweave-crash-ai-trade-cracks-anthropic-ipo-red-flags-bill-gates-doomer
-- Transcript: PENDING: waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed
+- Transcript: Saved: transcripts/2026-10-17_All-In_CoreWeave-Crash-AI-Trade-Cracks-Anthropic-IPO-Red-Flags-Bill-Gates-Doomer.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Forward Guidance (Blockworks)
 - Status: NEW

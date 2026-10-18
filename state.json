@@ -56,11 +56,14 @@
    "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him"
   },
   "f5b1cd7e-b9a3-4c1d-9159-375cab50f6a8": {
+   "attempts": 1,
    "date": "2026-10-17T01:51:00+00:00",
+   "file": "transcripts/2026-10-17_All-In_CoreWeave-Crash-AI-Trade-Cracks-Anthropic-IPO-Red-Flags-Bill-Gates-Doomer.md",
    "link": "https://allinchamathjason.libsyn.com/coreweave-crash-ai-trade-cracks-anthropic-ipo-red-flags-bill-gates-doomer",
-   "reason": "waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed",
+   "reason": "",
    "show": "All-In",
-   "status": "pending",
+   "source": "Machine transcription of official audio (faster-whisper small.en); no speaker names",
+   "status": "saved",
    "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer"
   }
  },
