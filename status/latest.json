@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-18 16:36 HKT",
+ "last_run": "2026-10-19 17:38 HKT",
  "shows": [
   {
    "show": "All-In",
@@ -7,7 +7,7 @@
    "date": "2026-10-17 09:51 HKT",
    "link": "https://allinchamathjason.libsyn.com/coreweave-crash-ai-trade-cracks-anthropic-ipo-red-flags-bill-gates-doomer",
    "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-   "status": "NEW",
+   "status": "No new episode",
    "transcript": "Saved: transcripts/2026-10-17_All-In_CoreWeave-Crash-AI-Trade-Cracks-Anthropic-IPO-Red-Flags-Bill-Gates-Doomer.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)"
   },
   {
@@ -16,7 +16,7 @@
    "date": "2026-10-16 18:00 HKT",
    "link": "",
    "feed": "https://feeds.megaphone.fm/forwardguidance",
-   "status": "NEW",
+   "status": "No new episode",
    "transcript": "Saved: transcripts/2026-10-16_Forward-Guidance_The-Bond-Market-Is-Pricing-In-Something-Worse-Than-Inflation-Weekly-Roundup.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)"
   },
   {
@@ -25,7 +25,7 @@
    "date": "2026-10-17 12:00 HKT",
    "link": "http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si422-why-trend-following-rewards-patience-ft-katy-kaminski",
    "feed": "https://feeds.captivate.fm/top-traders-unplugged/",
-   "status": "NEW",
+   "status": "No new episode",
    "transcript": "Saved: transcripts/2026-10-17_Systematic-Investor_SI422-Why-Trend-Following-Rewards-Patience-ft-Katy-Kaminski.md (RSS transcript tag (application/json))"
   }
  ]
