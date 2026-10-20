@@ -1,11 +1,11 @@
 # Podcast status
-Last run: 2026-10-19 17:38 HKT
+Last run: 2026-10-20 17:11 HKT
 
 ## All-In
-- Status: No new episode
-- Title: CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer (2026-10-17 09:51 HKT)
-- Link: https://allinchamathjason.libsyn.com/coreweave-crash-ai-trade-cracks-anthropic-ipo-red-flags-bill-gates-doomer
-- Transcript: Saved: transcripts/2026-10-17_All-In_CoreWeave-Crash-AI-Trade-Cracks-Anthropic-IPO-Red-Flags-Bill-Gates-Doomer.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
+- Status: NEW
+- Title: Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity (2026-10-20 04:43 HKT)
+- Link: https://allinchamathjason.libsyn.com/dylan-field-is-ai-replacing-designers-design-is-the-new-code-democratizing-creativity
+- Transcript: Saved: transcripts/2026-10-20_All-In_Dylan-Field-Is-AI-Replacing-Designers-Design-is-the-New-Code-Democratizing-Creat.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Forward Guidance (Blockworks)
 - Status: No new episode
