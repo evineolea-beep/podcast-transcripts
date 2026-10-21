@@ -1,5 +1,5 @@
 # Podcast status
-Last run: 2026-10-20 17:11 HKT
+Last run: 2026-10-21 17:09 HKT
 
 ## All-In
 - Status: NEW
@@ -8,10 +8,10 @@ Last run: 2026-10-20 17:11 HKT
 - Transcript: Saved: transcripts/2026-10-20_All-In_Dylan-Field-Is-AI-Replacing-Designers-Design-is-the-New-Code-Democratizing-Creat.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Forward Guidance (Blockworks)
-- Status: No new episode
-- Title: The Bond Market Is Pricing In Something Worse Than Inflation | Weekly Roundup (2026-10-16 18:00 HKT)
+- Status: NEW
+- Title: Where Is The Crypto Alpha Hiding This Cycle? (2026-10-20 22:39 HKT)
 - Link: 
-- Transcript: Saved: transcripts/2026-10-16_Forward-Guidance_The-Bond-Market-Is-Pricing-In-Something-Worse-Than-Inflation-Weekly-Roundup.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
+- Transcript: Saved: transcripts/2026-10-20_Forward-Guidance_Where-Is-The-Crypto-Alpha-Hiding-This-Cycle.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Systematic Investor (Top Traders Unplugged)
 - Status: No new episode

@@ -1,5 +1,16 @@
 {
  "episodes": {
+  "0af4bada-c7f6-11f1-ac8f-c7640b318cdc": {
+   "attempts": 1,
+   "date": "2026-10-20T14:39:00+00:00",
+   "file": "transcripts/2026-10-20_Forward-Guidance_Where-Is-The-Crypto-Alpha-Hiding-This-Cycle.md",
+   "link": "",
+   "reason": "",
+   "show": "Forward-Guidance",
+   "source": "Machine transcription of official audio (faster-whisper small.en); no speaker names",
+   "status": "saved",
+   "title": "Where Is The Crypto Alpha Hiding This Cycle?"
+  },
   "4deb3398-c8e9-11f1-a693-0bd61fa2ddce": {
    "attempts": 1,
    "date": "2026-10-16T10:00:00+00:00",
