@@ -1,11 +1,11 @@
 # Podcast status
-Last run: 2026-10-21 17:09 HKT
+Last run: 2026-10-22 17:12 HKT
 
 ## All-In
 - Status: NEW
-- Title: Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity (2026-10-20 04:43 HKT)
-- Link: https://allinchamathjason.libsyn.com/dylan-field-is-ai-replacing-designers-design-is-the-new-code-democratizing-creativity
-- Transcript: Saved: transcripts/2026-10-20_All-In_Dylan-Field-Is-AI-Replacing-Designers-Design-is-the-New-Code-Democratizing-Creat.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
+- Title: Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse (2026-10-22 07:42 HKT)
+- Link: https://allinchamathjason.libsyn.com/arvind-krishna-nikesh-arora-quantum-threat-open-vs-frontier-ai-ai-cyber-warfare-saas-collapse
+- Transcript: PENDING: waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed
 
 ## Forward Guidance (Blockworks)
 - Status: NEW
