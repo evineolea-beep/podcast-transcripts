@@ -1,14 +1,14 @@
 # Podcast status
-Last run: 2026-10-22 17:12 HKT
+Last run: 2026-10-23 17:08 HKT
 
 ## All-In
 - Status: NEW
 - Title: Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse (2026-10-22 07:42 HKT)
 - Link: https://allinchamathjason.libsyn.com/arvind-krishna-nikesh-arora-quantum-threat-open-vs-frontier-ai-ai-cyber-warfare-saas-collapse
-- Transcript: PENDING: waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed
+- Transcript: Saved: transcripts/2026-10-22_All-In_Arvind-Krishna-Nikesh-Arora-Quantum-Threat-Open-vs-Frontier-AI-AI-Cyber-Warfare-.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Forward Guidance (Blockworks)
-- Status: NEW
+- Status: No new episode
 - Title: Where Is The Crypto Alpha Hiding This Cycle? (2026-10-20 22:39 HKT)
 - Link: 
 - Transcript: Saved: transcripts/2026-10-20_Forward-Guidance_Where-Is-The-Crypto-Alpha-Hiding-This-Cycle.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
