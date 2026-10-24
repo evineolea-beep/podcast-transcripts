@@ -33,6 +33,14 @@
    "status": "saved",
    "title": "The Bond Market Is Pricing In Something Worse Than Inflation | Weekly Roundup"
   },
+  "8173444f-00cd-4027-8d2f-c9e911ae2a95": {
+   "date": "2026-10-23T23:08:00+00:00",
+   "link": "https://allinchamathjason.libsyn.com/ai-cyber-panic-ken-griffins-bubble-warning-the-fall-of-france",
+   "reason": "waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed",
+   "show": "All-In",
+   "status": "pending",
+   "title": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?"
+  },
   "878c6810-c65a-11f1-a1d2-f34a21d3c508": {
    "attempts": 1,
    "date": "2026-10-13T10:00:00+00:00",
@@ -65,6 +73,28 @@
    "source": "RSS transcript tag (application/json)",
    "status": "saved",
    "title": "SI422: Why Trend Following Rewards Patience ft. Katy Kaminski"
+  },
+  "9af27270-cedc-11f1-abf5-a3317f5b1940": {
+   "attempts": 1,
+   "date": "2026-10-23T12:31:00+00:00",
+   "file": "transcripts/2026-10-23_Forward-Guidance_The-Only-Way-Out-Is-Through-Weekly-Roundup.md",
+   "link": "",
+   "reason": "",
+   "show": "Forward-Guidance",
+   "source": "Machine transcription of official audio (faster-whisper small.en); no speaker names",
+   "status": "saved",
+   "title": "The Only Way Out Is Through | Weekly Roundup"
+  },
+  "c4b0487c-12d4-4d08-95c7-98f703e1f279": {
+   "attempts": 1,
+   "date": "2026-10-24T04:00:00+00:00",
+   "file": "transcripts/2026-10-24_Systematic-Investor_SI423-Why-Trend-Following-Might-Outlast-the-AI-Arms-Race-ft-Mark-Rzepczynski.md",
+   "link": "http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si423-why-trend-following-might-outlast-the-ai-arms-race-ft-mark-rzepczynski",
+   "reason": "",
+   "show": "Systematic-Investor",
+   "source": "RSS transcript tag (application/json)",
+   "status": "saved",
+   "title": "SI423: Why Trend Following Might Outlast the AI Arms Race ft. Mark Rzepczynski"
   },
   "df9fe70c-a787-4f9f-b869-ab6bd6758a7b": {
    "attempts": 1,
