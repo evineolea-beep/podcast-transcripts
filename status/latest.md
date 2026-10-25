@@ -1,11 +1,11 @@
 # Podcast status
-Last run: 2026-10-24 16:41 HKT
+Last run: 2026-10-25 16:58 HKT
 
 ## All-In
 - Status: NEW
 - Title: AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France? (2026-10-24 07:08 HKT)
 - Link: https://allinchamathjason.libsyn.com/ai-cyber-panic-ken-griffins-bubble-warning-the-fall-of-france
-- Transcript: PENDING: waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed
+- Transcript: Saved: transcripts/2026-10-24_All-In_AI-Cyber-Panic-Ken-Griffin-s-Bubble-Warning-The-Fall-of-France.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Forward Guidance (Blockworks)
 - Status: NEW
