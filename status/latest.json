@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-25 16:58 HKT",
+ "last_run": "2026-10-26 17:47 HKT",
  "shows": [
   {
    "show": "All-In",
@@ -7,7 +7,7 @@
    "date": "2026-10-24 07:08 HKT",
    "link": "https://allinchamathjason.libsyn.com/ai-cyber-panic-ken-griffins-bubble-warning-the-fall-of-france",
    "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
-   "status": "NEW",
+   "status": "No new episode",
    "transcript": "Saved: transcripts/2026-10-24_All-In_AI-Cyber-Panic-Ken-Griffin-s-Bubble-Warning-The-Fall-of-France.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)"
   },
   {
@@ -16,7 +16,7 @@
    "date": "2026-10-23 20:31 HKT",
    "link": "",
    "feed": "https://feeds.megaphone.fm/forwardguidance",
-   "status": "NEW",
+   "status": "No new episode",
    "transcript": "Saved: transcripts/2026-10-23_Forward-Guidance_The-Only-Way-Out-Is-Through-Weekly-Roundup.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)"
   },
   {
@@ -25,7 +25,7 @@
    "date": "2026-10-24 12:00 HKT",
    "link": "http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si423-why-trend-following-might-outlast-the-ai-arms-race-ft-mark-rzepczynski",
    "feed": "https://feeds.captivate.fm/top-traders-unplugged/",
-   "status": "NEW",
+   "status": "No new episode",
    "transcript": "Saved: transcripts/2026-10-24_Systematic-Investor_SI423-Why-Trend-Following-Might-Outlast-the-AI-Arms-Race-ft-Mark-Rzepczynski.md (RSS transcript tag (application/json))"
   }
  ]
