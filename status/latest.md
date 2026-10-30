@@ -1,11 +1,11 @@
 # Podcast status
-Last run: 2026-10-29 18:43 HKT
+Last run: 2026-10-30 18:43 HKT
 
 ## All-In
-- Status: No new episode
-- Title: AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France? (2026-10-24 07:08 HKT)
-- Link: https://allinchamathjason.libsyn.com/ai-cyber-panic-ken-griffins-bubble-warning-the-fall-of-france
-- Transcript: Saved: transcripts/2026-10-24_All-In_AI-Cyber-Panic-Ken-Griffin-s-Bubble-Warning-The-Fall-of-France.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
+- Status: NEW
+- Title: WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight (2026-10-30 05:26 HKT)
+- Link: https://allinchamathjason.libsyn.com/whoop-ceo-will-ahmed-50b-hours-of-health-data-a-4-million-member-data-moat-the-fda-fight
+- Transcript: Saved: transcripts/2026-10-30_All-In_WHOOP-CEO-Will-Ahmed-50B-Hours-of-Health-Data-a-4-Million-Member-Data-Moat-the-F.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Forward Guidance (Blockworks)
 - Status: No new episode
