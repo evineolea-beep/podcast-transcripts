@@ -44,6 +44,17 @@
    "status": "saved",
    "title": "The Bond Market Is Pricing In Something Worse Than Inflation | Weekly Roundup"
   },
+  "6b0acd19-a13a-4474-8e02-402215408f4f": {
+   "attempts": 1,
+   "date": "2026-10-30T21:44:00+00:00",
+   "file": "transcripts/2026-10-31_All-In_Anthropic-S-1-Shocker-Greatest-Business-Ever-Google-s-500B-Wipeout-Midterm-Predi.md",
+   "link": "https://allinchamathjason.libsyn.com/anthropic-s-1-shocker-greatest-business-ever-googles-500b-wipeout-midterm-predictions",
+   "reason": "",
+   "show": "All-In",
+   "source": "Machine transcription of official audio (faster-whisper small.en); no speaker names",
+   "status": "saved",
+   "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions"
+  },
   "8173444f-00cd-4027-8d2f-c9e911ae2a95": {
    "attempts": 1,
    "date": "2026-10-23T23:08:00+00:00",
@@ -76,6 +87,17 @@
    "source": "Machine transcription of official audio (faster-whisper small.en); no speaker names",
    "status": "saved",
    "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary"
+  },
+  "976434fd-0687-47cc-abcb-16199857903b": {
+   "attempts": 1,
+   "date": "2026-10-31T05:00:00+00:00",
+   "file": "transcripts/2026-10-31_Systematic-Investor_SI424-Can-Your-Portfolio-Survive-the-AI-Hangover-ft-Alan-Dunne.md",
+   "link": "http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si424-what-if-60-40-isnt-resilient-enough-ft-alan-dunne",
+   "reason": "",
+   "show": "Systematic-Investor",
+   "source": "RSS transcript tag (application/json)",
+   "status": "saved",
+   "title": "SI424: Can Your Portfolio Survive the AI Hangover? ft. Alan Dunne"
   },
   "9810e584-cb1b-4840-9d9a-c0b97e86c6f0": {
    "attempts": 1,
@@ -131,6 +153,14 @@
    "source": "Machine transcription of official audio (faster-whisper small.en); no speaker names",
    "status": "saved",
    "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity"
+  },
+  "ec837b56-d4b4-11f1-adcd-1f4a9d216a43": {
+   "date": "2026-10-31T10:00:00+00:00",
+   "link": "",
+   "reason": "waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed",
+   "show": "Forward-Guidance",
+   "status": "pending",
+   "title": "The Fed Is A Sideshow While The AI Trade Implodes | Weekly Roundup"
   },
   "f5b1cd7e-b9a3-4c1d-9159-375cab50f6a8": {
    "attempts": 1,

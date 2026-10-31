@@ -1,32 +1,32 @@
 {
- "last_run": "2026-10-30 18:43 HKT",
+ "last_run": "2026-10-31 18:12 HKT",
  "shows": [
   {
    "show": "All-In",
-   "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
-   "date": "2026-10-30 05:26 HKT",
-   "link": "https://allinchamathjason.libsyn.com/whoop-ceo-will-ahmed-50b-hours-of-health-data-a-4-million-member-data-moat-the-fda-fight",
+   "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
+   "date": "2026-10-31 05:44 HKT",
+   "link": "https://allinchamathjason.libsyn.com/anthropic-s-1-shocker-greatest-business-ever-googles-500b-wipeout-midterm-predictions",
    "feed": "https://rss.libsyn.com/shows/254861/destinations/1928300.xml",
    "status": "NEW",
-   "transcript": "Saved: transcripts/2026-10-30_All-In_WHOOP-CEO-Will-Ahmed-50B-Hours-of-Health-Data-a-4-Million-Member-Data-Moat-the-F.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)"
+   "transcript": "Saved: transcripts/2026-10-31_All-In_Anthropic-S-1-Shocker-Greatest-Business-Ever-Google-s-500B-Wipeout-Midterm-Predi.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)"
   },
   {
    "show": "Forward Guidance (Blockworks)",
-   "title": "The Only Way Out Is Through | Weekly Roundup",
-   "date": "2026-10-23 20:31 HKT",
+   "title": "The Fed Is A Sideshow While The AI Trade Implodes | Weekly Roundup",
+   "date": "2026-10-31 18:00 HKT",
    "link": "",
    "feed": "https://feeds.megaphone.fm/forwardguidance",
-   "status": "No new episode",
-   "transcript": "Saved: transcripts/2026-10-23_Forward-Guidance_The-Only-Way-Out-Is-Through-Weekly-Roundup.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)"
+   "status": "NEW",
+   "transcript": "PENDING: waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed"
   },
   {
    "show": "Systematic Investor (Top Traders Unplugged)",
-   "title": "SI423: Why Trend Following Might Outlast the AI Arms Race ft. Mark Rzepczynski",
-   "date": "2026-10-24 13:00 HKT",
-   "link": "http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si423-why-trend-following-might-outlast-the-ai-arms-race-ft-mark-rzepczynski",
+   "title": "SI424: Can Your Portfolio Survive the AI Hangover? ft. Alan Dunne",
+   "date": "2026-10-31 13:00 HKT",
+   "link": "http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si424-what-if-60-40-isnt-resilient-enough-ft-alan-dunne",
    "feed": "https://feeds.captivate.fm/top-traders-unplugged/",
-   "status": "No new episode",
-   "transcript": "Saved: transcripts/2026-10-24_Systematic-Investor_SI423-Why-Trend-Following-Might-Outlast-the-AI-Arms-Race-ft-Mark-Rzepczynski.md (RSS transcript tag (application/json))"
+   "status": "NEW",
+   "transcript": "Saved: transcripts/2026-10-31_Systematic-Investor_SI424-Can-Your-Portfolio-Survive-the-AI-Hangover-ft-Alan-Dunne.md (RSS transcript tag (application/json))"
   }
  ]
 }
