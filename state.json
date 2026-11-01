@@ -155,11 +155,14 @@
    "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity"
   },
   "ec837b56-d4b4-11f1-adcd-1f4a9d216a43": {
+   "attempts": 1,
    "date": "2026-10-31T10:00:00+00:00",
+   "file": "transcripts/2026-10-31_Forward-Guidance_The-Fed-Is-A-Sideshow-While-The-AI-Trade-Implodes-Weekly-Roundup.md",
    "link": "",
-   "reason": "waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed",
+   "reason": "",
    "show": "Forward-Guidance",
-   "status": "pending",
+   "source": "Machine transcription of official audio (faster-whisper small.en); no speaker names",
+   "status": "saved",
    "title": "The Fed Is A Sideshow While The AI Trade Implodes | Weekly Roundup"
   },
   "f5b1cd7e-b9a3-4c1d-9159-375cab50f6a8": {

@@ -1,5 +1,5 @@
 # Podcast status
-Last run: 2026-10-31 18:12 HKT
+Last run: 2026-11-01 19:04 HKT
 
 ## All-In
 - Status: NEW
@@ -11,7 +11,7 @@ Last run: 2026-10-31 18:12 HKT
 - Status: NEW
 - Title: The Fed Is A Sideshow While The AI Trade Implodes | Weekly Roundup (2026-10-31 18:00 HKT)
 - Link: 
-- Transcript: PENDING: waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed
+- Transcript: Saved: transcripts/2026-10-31_Forward-Guidance_The-Fed-Is-A-Sideshow-While-The-AI-Trade-Implodes-Weekly-Roundup.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Systematic Investor (Top Traders Unplugged)
 - Status: NEW
