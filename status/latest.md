@@ -1,5 +1,5 @@
 # Podcast status
-Last run: 2026-11-03 19:39 HKT
+Last run: 2026-11-04 19:53 HKT
 
 ## All-In
 - Status: No new episode
@@ -8,10 +8,10 @@ Last run: 2026-11-03 19:39 HKT
 - Transcript: Saved: transcripts/2026-10-31_All-In_Anthropic-S-1-Shocker-Greatest-Business-Ever-Google-s-500B-Wipeout-Midterm-Predi.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Forward Guidance (Blockworks)
-- Status: No new episode
-- Title: The Fed Is A Sideshow While The AI Trade Implodes | Weekly Roundup (2026-10-31 18:00 HKT)
+- Status: NEW
+- Title: Is The AI Selloff A Buying Opportunity? | Warren Pies (2026-11-04 19:00 HKT)
 - Link: 
-- Transcript: Saved: transcripts/2026-10-31_Forward-Guidance_The-Fed-Is-A-Sideshow-While-The-AI-Trade-Implodes-Weekly-Roundup.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
+- Transcript: PENDING: waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed
 
 ## Systematic Investor (Top Traders Unplugged)
 - Status: No new episode
