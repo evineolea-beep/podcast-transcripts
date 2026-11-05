@@ -1,5 +1,5 @@
 # Podcast status
-Last run: 2026-11-04 19:53 HKT
+Last run: 2026-11-05 19:54 HKT
 
 ## All-In
 - Status: No new episode
@@ -11,7 +11,7 @@ Last run: 2026-11-04 19:53 HKT
 - Status: NEW
 - Title: Is The AI Selloff A Buying Opportunity? | Warren Pies (2026-11-04 19:00 HKT)
 - Link: 
-- Transcript: PENDING: waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed
+- Transcript: Saved: transcripts/2026-11-04_Forward-Guidance_Is-The-AI-Selloff-A-Buying-Opportunity-Warren-Pies.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Systematic Investor (Top Traders Unplugged)
 - Status: No new episode
