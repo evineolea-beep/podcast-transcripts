@@ -1,5 +1,5 @@
 # Podcast status
-Last run: 2026-11-05 19:54 HKT
+Last run: 2026-11-06 19:51 HKT
 
 ## All-In
 - Status: No new episode
@@ -8,7 +8,7 @@ Last run: 2026-11-05 19:54 HKT
 - Transcript: Saved: transcripts/2026-10-31_All-In_Anthropic-S-1-Shocker-Greatest-Business-Ever-Google-s-500B-Wipeout-Midterm-Predi.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Forward Guidance (Blockworks)
-- Status: NEW
+- Status: No new episode
 - Title: Is The AI Selloff A Buying Opportunity? | Warren Pies (2026-11-04 19:00 HKT)
 - Link: 
 - Transcript: Saved: transcripts/2026-11-04_Forward-Guidance_Is-The-AI-Selloff-A-Buying-Opportunity-Warren-Pies.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
