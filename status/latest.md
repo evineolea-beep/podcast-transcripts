@@ -1,5 +1,5 @@
 # Podcast status
-Last run: 2026-11-06 19:51 HKT
+Last run: 2026-11-07 18:54 HKT
 
 ## All-In
 - Status: No new episode
@@ -8,13 +8,13 @@ Last run: 2026-11-06 19:51 HKT
 - Transcript: Saved: transcripts/2026-10-31_All-In_Anthropic-S-1-Shocker-Greatest-Business-Ever-Google-s-500B-Wipeout-Midterm-Predi.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Forward Guidance (Blockworks)
-- Status: No new episode
-- Title: Is The AI Selloff A Buying Opportunity? | Warren Pies (2026-11-04 19:00 HKT)
+- Status: NEW
+- Title: Long Gold And Short Semis Into Year-End? | Weekly Roundup (2026-11-06 21:00 HKT)
 - Link: 
-- Transcript: Saved: transcripts/2026-11-04_Forward-Guidance_Is-The-AI-Selloff-A-Buying-Opportunity-Warren-Pies.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
+- Transcript: Saved: transcripts/2026-11-06_Forward-Guidance_Long-Gold-And-Short-Semis-Into-Year-End-Weekly-Roundup.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Systematic Investor (Top Traders Unplugged)
-- Status: No new episode
-- Title: SI424: Can Your Portfolio Survive the AI Hangover? ft. Alan Dunne (2026-10-31 13:00 HKT)
-- Link: http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si424-what-if-60-40-isnt-resilient-enough-ft-alan-dunne
-- Transcript: Saved: transcripts/2026-10-31_Systematic-Investor_SI424-Can-Your-Portfolio-Survive-the-AI-Hangover-ft-Alan-Dunne.md (RSS transcript tag (application/json))
+- Status: NEW
+- Title: SI425: Passive Investing Is About to Face a Real Test ft. Cem Karsan (2026-11-07 13:00 HKT)
+- Link: http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si425-passive-investing-is-about-to-face-a-real-test-ft-cem-karsan
+- Transcript: Saved: transcripts/2026-11-07_Systematic-Investor_SI425-Passive-Investing-Is-About-to-Face-a-Real-Test-ft-Cem-Karsan.md (RSS transcript tag (application/json))
