@@ -1,11 +1,11 @@
 # Podcast status
-Last run: 2026-11-07 18:54 HKT
+Last run: 2026-11-08 19:04 HKT
 
 ## All-In
-- Status: No new episode
-- Title: Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions (2026-10-31 05:44 HKT)
-- Link: https://allinchamathjason.libsyn.com/anthropic-s-1-shocker-greatest-business-ever-googles-500b-wipeout-midterm-predictions
-- Transcript: Saved: transcripts/2026-10-31_All-In_Anthropic-S-1-Shocker-Greatest-Business-Ever-Google-s-500B-Wipeout-Midterm-Predi.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
+- Status: NEW
+- Title: Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump (2026-11-08 02:27 HKT)
+- Link: https://www.youtube.com/watch?v=sUgwBqSRf3E
+- Transcript: Saved: transcripts/2026-11-08_All-In_Midterm-Blood-Bath-4T-AI-Sell-Off-Data-Center-Freeze-What-s-Next-for-Trump.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Forward Guidance (Blockworks)
 - Status: NEW
