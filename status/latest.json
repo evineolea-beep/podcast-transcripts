@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-08 19:04 HKT",
+ "last_run": "2026-11-09 20:34 HKT",
  "shows": [
   {
    "show": "All-In",
@@ -16,7 +16,7 @@
    "date": "2026-11-06 21:00 HKT",
    "link": "",
    "feed": "https://feeds.megaphone.fm/forwardguidance",
-   "status": "NEW",
+   "status": "No new episode",
    "transcript": "Saved: transcripts/2026-11-06_Forward-Guidance_Long-Gold-And-Short-Semis-Into-Year-End-Weekly-Roundup.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)"
   },
   {
@@ -25,7 +25,7 @@
    "date": "2026-11-07 13:00 HKT",
    "link": "http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si425-passive-investing-is-about-to-face-a-real-test-ft-cem-karsan",
    "feed": "https://feeds.captivate.fm/top-traders-unplugged/",
-   "status": "NEW",
+   "status": "No new episode",
    "transcript": "Saved: transcripts/2026-11-07_Systematic-Investor_SI425-Passive-Investing-Is-About-to-Face-a-Real-Test-ft-Cem-Karsan.md (RSS transcript tag (application/json))"
   }
  ]

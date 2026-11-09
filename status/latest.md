@@ -1,5 +1,5 @@
 # Podcast status
-Last run: 2026-11-08 19:04 HKT
+Last run: 2026-11-09 20:34 HKT
 
 ## All-In
 - Status: NEW
@@ -8,13 +8,13 @@ Last run: 2026-11-08 19:04 HKT
 - Transcript: Saved: transcripts/2026-11-08_All-In_Midterm-Blood-Bath-4T-AI-Sell-Off-Data-Center-Freeze-What-s-Next-for-Trump.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Forward Guidance (Blockworks)
-- Status: NEW
+- Status: No new episode
 - Title: Long Gold And Short Semis Into Year-End? | Weekly Roundup (2026-11-06 21:00 HKT)
 - Link: 
 - Transcript: Saved: transcripts/2026-11-06_Forward-Guidance_Long-Gold-And-Short-Semis-Into-Year-End-Weekly-Roundup.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Systematic Investor (Top Traders Unplugged)
-- Status: NEW
+- Status: No new episode
 - Title: SI425: Passive Investing Is About to Face a Real Test ft. Cem Karsan (2026-11-07 13:00 HKT)
 - Link: http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si425-passive-investing-is-about-to-face-a-real-test-ft-cem-karsan
 - Transcript: Saved: transcripts/2026-11-07_Systematic-Investor_SI425-Passive-Investing-Is-About-to-Face-a-Real-Test-ft-Cem-Karsan.md (RSS transcript tag (application/json))
