@@ -1,8 +1,8 @@
 # Podcast status
-Last run: 2026-11-09 20:34 HKT
+Last run: 2026-11-10 20:11 HKT
 
 ## All-In
-- Status: NEW
+- Status: No new episode
 - Title: Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump (2026-11-08 02:27 HKT)
 - Link: https://www.youtube.com/watch?v=sUgwBqSRf3E
 - Transcript: Saved: transcripts/2026-11-08_All-In_Midterm-Blood-Bath-4T-AI-Sell-Off-Data-Center-Freeze-What-s-Next-for-Trump.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
