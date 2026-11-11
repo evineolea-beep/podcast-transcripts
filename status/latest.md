@@ -1,11 +1,11 @@
 # Podcast status
-Last run: 2026-11-10 20:11 HKT
+Last run: 2026-11-11 19:42 HKT
 
 ## All-In
-- Status: No new episode
-- Title: Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump (2026-11-08 02:27 HKT)
-- Link: https://www.youtube.com/watch?v=sUgwBqSRf3E
-- Transcript: Saved: transcripts/2026-11-08_All-In_Midterm-Blood-Bath-4T-AI-Sell-Off-Data-Center-Freeze-What-s-Next-for-Trump.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
+- Status: NEW
+- Title: Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing (2026-11-11 07:03 HKT)
+- Link: https://allinchamathjason.libsyn.com/freedom-vs-safety-axon-ceo-rick-smith-on-the-future-of-policing
+- Transcript: Saved: transcripts/2026-11-11_All-In_Freedom-vs-Safety-Axon-CEO-Rick-Smith-on-the-Future-of-Policing.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Forward Guidance (Blockworks)
 - Status: No new episode
