@@ -1,8 +1,8 @@
 # Podcast status
-Last run: 2026-11-12 20:15 HKT
+Last run: 2026-11-13 19:53 HKT
 
 ## All-In
-- Status: NEW
+- Status: No new episode
 - Title: Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing (2026-11-11 07:03 HKT)
 - Link: https://allinchamathjason.libsyn.com/freedom-vs-safety-axon-ceo-rick-smith-on-the-future-of-policing
 - Transcript: Saved: transcripts/2026-11-11_All-In_Freedom-vs-Safety-Axon-CEO-Rick-Smith-on-the-Future-of-Policing.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
