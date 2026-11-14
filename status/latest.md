@@ -1,11 +1,11 @@
 # Podcast status
-Last run: 2026-11-13 19:53 HKT
+Last run: 2026-11-14 19:14 HKT
 
 ## All-In
-- Status: No new episode
-- Title: Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing (2026-11-11 07:03 HKT)
-- Link: https://allinchamathjason.libsyn.com/freedom-vs-safety-axon-ceo-rick-smith-on-the-future-of-policing
-- Transcript: Saved: transcripts/2026-11-11_All-In_Freedom-vs-Safety-Axon-CEO-Rick-Smith-on-the-Future-of-Policing.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
+- Status: NEW
+- Title: Jensen Ousted as Nvidia CEO: "Spy" Scandal, Export Restrictions, Market Impact (2026-11-14 10:35 HKT)
+- Link: https://allinchamathjason.libsyn.com/jensen-ousted-as-nvidia-ceo-spy-scandal-export-restrictions-market-impact
+- Transcript: PENDING: waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed
 
 ## Forward Guidance (Blockworks)
 - Status: No new episode
@@ -14,7 +14,7 @@ Last run: 2026-11-13 19:53 HKT
 - Transcript: Saved: transcripts/2026-11-06_Forward-Guidance_Long-Gold-And-Short-Semis-Into-Year-End-Weekly-Roundup.md (Machine transcription of official audio (faster-whisper small.en); no speaker names)
 
 ## Systematic Investor (Top Traders Unplugged)
-- Status: No new episode
-- Title: SI425: Passive Investing Is About to Face a Real Test ft. Cem Karsan (2026-11-07 13:00 HKT)
-- Link: http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si425-passive-investing-is-about-to-face-a-real-test-ft-cem-karsan
-- Transcript: Saved: transcripts/2026-11-07_Systematic-Investor_SI425-Passive-Investing-Is-About-to-Face-a-Real-Test-ft-Cem-Karsan.md (RSS transcript tag (application/json))
+- Status: NEW
+- Title: SI426: The Hard Part Isn't Buying Trend Following ft. Yoav Git (2026-11-14 13:00 HKT)
+- Link: http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si426-the-hard-part-isnt-buying-trend-following-ft-yoav-git
+- Transcript: Saved: transcripts/2026-11-14_Systematic-Investor_SI426-The-Hard-Part-Isn-t-Buying-Trend-Following-ft-Yoav-Git.md (RSS transcript tag (application/json))

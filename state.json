@@ -55,6 +55,17 @@
    "status": "saved",
    "title": "SI425: Passive Investing Is About to Face a Real Test ft. Cem Karsan"
   },
+  "484a08f5-e32e-495d-91ae-48dbec812c44": {
+   "attempts": 1,
+   "date": "2026-11-14T05:00:00+00:00",
+   "file": "transcripts/2026-11-14_Systematic-Investor_SI426-The-Hard-Part-Isn-t-Buying-Trend-Following-ft-Yoav-Git.md",
+   "link": "http://localhost:8888/TopTradersUnplugged/ttu-2021/homepage/si426-the-hard-part-isnt-buying-trend-following-ft-yoav-git",
+   "reason": "",
+   "show": "Systematic-Investor",
+   "source": "RSS transcript tag (application/json)",
+   "status": "saved",
+   "title": "SI426: The Hard Part Isn't Buying Trend Following ft. Yoav Git"
+  },
   "4deb3398-c8e9-11f1-a693-0bd61fa2ddce": {
    "attempts": 1,
    "date": "2026-10-16T10:00:00+00:00",
@@ -109,6 +120,14 @@
    "source": "Machine transcription of official audio (faster-whisper small.en); no speaker names",
    "status": "saved",
    "title": "Robinhood & Lighter: Why Wall Street Is Moving Onchain"
+  },
+  "8acea033-ba08-4e5a-ab7c-b543bc7e486f": {
+   "date": "2026-11-14T02:35:00+00:00",
+   "link": "https://allinchamathjason.libsyn.com/jensen-ousted-as-nvidia-ceo-spy-scandal-export-restrictions-market-impact",
+   "reason": "waiting for official transcript (Whisper fallback after 12h); Episode page: not found; YouTube: no link on episode page or feed",
+   "show": "All-In",
+   "status": "pending",
+   "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact"
   },
   "8c597438-75df-42fd-85bc-7c08156b38b6": {
    "attempts": 1,
